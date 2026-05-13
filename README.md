@@ -47,8 +47,8 @@ com.biblioteca
 
 ```bash
 # Clonar el repositorio
-git clone https://github.com/tu-usuario/gestion-biblioteca.git
-cd gestion-biblioteca
+git clone https://github.com/JuanjoBuenoDev/biblioteca.git
+cd biblioteca
 
 # Arrancar con H2 en memoria (desarrollo)
 mvn spring-boot:run
